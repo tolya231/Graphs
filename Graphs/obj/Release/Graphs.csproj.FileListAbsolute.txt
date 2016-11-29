@@ -1,0 +1,9 @@
+D:\C# projects\Graphs\Graphs\bin\Release\Graphs.exe
+D:\C# projects\Graphs\Graphs\bin\Release\Graphs.pdb
+D:\C# projects\Graphs\Graphs\obj\Release\Graphs.csprojResolveAssemblyReference.cache
+D:\C# projects\Graphs\Graphs\obj\Release\Graphs.Form1.resources
+D:\C# projects\Graphs\Graphs\obj\Release\Graphs.Matrix_sm.resources
+D:\C# projects\Graphs\Graphs\obj\Release\Graphs.Properties.Resources.resources
+D:\C# projects\Graphs\Graphs\obj\Release\Graphs.csproj.GenerateResource.Cache
+D:\C# projects\Graphs\Graphs\obj\Release\Graphs.exe
+D:\C# projects\Graphs\Graphs\obj\Release\Graphs.pdb

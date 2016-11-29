@@ -1,0 +1,34 @@
+D:\C# projects\Graphs\Graphs\bin\Debug\Graphs.exe
+D:\C# projects\Graphs\Graphs\bin\Debug\Graphs.pdb
+D:\C# projects\Graphs\Graphs\obj\Debug\Graphs.csprojResolveAssemblyReference.cache
+D:\C# projects\Graphs\Graphs\obj\Debug\Graphs.Properties.Resources.resources
+D:\C# projects\Graphs\Graphs\obj\Debug\Graphs.csproj.GenerateResource.Cache
+D:\C# projects\Graphs\Graphs\obj\Debug\Graphs.exe
+D:\C# projects\Graphs\Graphs\obj\Debug\Graphs.pdb
+D:\C# projects\Graphs\Graphs\obj\Debug\Graphs.Form1.resources
+D:\Graphs\Graphs\obj\Debug\Graphs.exe
+D:\Graphs\Graphs\obj\Debug\Graphs.pdb
+D:\Graphs\Graphs\obj\Debug\Graphs.csprojResolveAssemblyReference.cache
+D:\Graphs\Graphs\obj\Debug\Graphs.Form1.resources
+D:\Graphs\Graphs\obj\Debug\Graphs.Properties.Resources.resources
+D:\Graphs\Graphs\obj\Debug\Graphs.csproj.GenerateResource.Cache
+D:\Graphs\Graphs\bin\Debug\Graphs.exe
+D:\Graphs\Graphs\bin\Debug\Graphs.pdb
+E:\Graphs\Graphs\obj\Debug\Graphs.exe
+E:\Graphs\Graphs\obj\Debug\Graphs.pdb
+E:\Graphs\Graphs\bin\Debug\Graphs.exe
+E:\Graphs\Graphs\bin\Debug\Graphs.pdb
+E:\Graphs\Graphs\obj\Debug\ResolveAssemblyReference.cache
+E:\Graphs\Graphs\obj\Debug\Graphs.Form1.resources
+E:\Graphs\Graphs\obj\Debug\Graphs.Properties.Resources.resources
+E:\Graphs\Graphs\obj\Debug\GenerateResource.read.1.tlog
+E:\Graphs\Graphs\obj\Debug\GenerateResource.write.1.tlog
+G:\Graphs\Graphs\obj\Debug\Graphs.exe
+G:\Graphs\Graphs\obj\Debug\Graphs.pdb
+G:\Graphs\Graphs\bin\Debug\Graphs.exe
+G:\Graphs\Graphs\bin\Debug\Graphs.pdb
+G:\Graphs\Graphs\obj\Debug\Graphs.csprojResolveAssemblyReference.cache
+G:\Graphs\Graphs\obj\Debug\Graphs.Form1.resources
+G:\Graphs\Graphs\obj\Debug\Graphs.Properties.Resources.resources
+G:\Graphs\Graphs\obj\Debug\Graphs.csproj.GenerateResource.Cache
+D:\C# projects\Graphs\Graphs\obj\Debug\Graphs.Matrix_sm.resources
